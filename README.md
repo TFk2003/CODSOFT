@@ -15,8 +15,8 @@ In this repository, you'll find the codebase and resources related to my interns
 
 ## How to Use:
 **Prerequisites**:
-*Ensure you have Python installed on your machine. You can download it from here.
-*Install Jupyter Notebook using pip:
+* Ensure you have Python installed on your machine. You can download it from here.
+* Install Jupyter Notebook using pip:
   pip install notebook
 **Getting Started**:
 1. Clone this repository to your local machine using git clone https://github.com/TFk2003/CODSOFT or download the ZIP file and extract it.
@@ -28,8 +28,8 @@ In this repository, you'll find the codebase and resources related to my interns
 6. Click on the notebook file you want to work with to open it.
 7. Follow the instructions and execute the code cells within the notebook to interact with the project.
 **Additional Notes**:
-*Make sure to install any required Python packages listed in the notebooks using pip or conda.
-*Feel free to modify the notebooks and experiment with the code to better understand the project or explore different approaches.
+* Make sure to install any required Python packages listed in the notebooks using pip or conda.
+* Feel free to modify the notebooks and experiment with the code to better understand the project or explore different approaches.
 
 ## Contribution Guidelines:
 If you're interested in contributing to this project, feel free to fork this repository and submit pull requests. Please follow the guidelines outlined in the CONTRIBUTING.md file.
